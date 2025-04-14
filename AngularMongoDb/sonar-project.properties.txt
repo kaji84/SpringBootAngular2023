@@ -1,0 +1,9 @@
+sonar.projectKey=SPRINGBOOTWITHANGULAR
+sonar.projectName=SPRINGBOOT_ANGULAR
+sonar.projectVersion=1.0
+sonar.sources=./src
+sonar.sourceEncoding=UTF-8
+sonar.java.binaries=classes
+sonar.scm.disabled=true
+sonar.host.url=http://localhost:9000
+sonar.login=squ_52da60cca2bd4b1227b808b67c297ce3d86913fb
